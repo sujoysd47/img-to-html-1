@@ -1,0 +1,48 @@
+header{
+    padding:15px 0;
+    border-bottom:1px solid #ddd
+}
+
+.container{
+    width:90%;
+    margin:0 auto;
+    overflow:hidden;
+}
+
+.logo{
+    float:left;
+    width:10%;
+    margin-top:3px
+}
+
+.logo a img{
+    width:100%;
+}
+
+.menu{
+    float:right;
+    width:50%;
+ 
+}
+
+.menu ul{
+    float:right;
+}
+
+.menu ul li{
+    float:left;
+    list-style:none;
+}
+
+.menu ul li a{
+    text-decoration:none;
+    margin:0 15px;
+    font-size:18px;
+    text-transform:capitalize;
+}
+.menu ul li a:last-child{
+    margin-right:0px;
+}
+.menu ul li a:hover{
+    color:#0A8CF2;
+}
